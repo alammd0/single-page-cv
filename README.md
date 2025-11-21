@@ -4,3 +4,6 @@
 
 1.  Clone the repository.
 2.  Open the `index.html` file in your web browser.
+
+project Live URL:
+https://alammd0.github.io/single-page-cv/
